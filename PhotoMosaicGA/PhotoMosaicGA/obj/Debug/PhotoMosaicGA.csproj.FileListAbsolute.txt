@@ -1,0 +1,14 @@
+C:\Users\japie\Desktop\Development\C#\PhotoMosaic\PhotoMosaicGA\PhotoMosaicGA\bin\Debug\PhotoMosaicGA.exe.config
+C:\Users\japie\Desktop\Development\C#\PhotoMosaic\PhotoMosaicGA\PhotoMosaicGA\bin\Debug\PhotoMosaicGA.exe
+C:\Users\japie\Desktop\Development\C#\PhotoMosaic\PhotoMosaicGA\PhotoMosaicGA\bin\Debug\PhotoMosaicGA.pdb
+C:\Users\japie\Desktop\Development\C#\PhotoMosaic\PhotoMosaicGA\PhotoMosaicGA\obj\Debug\PhotoMosaicGA.csprojAssemblyReference.cache
+C:\Users\japie\Desktop\Development\C#\PhotoMosaic\PhotoMosaicGA\PhotoMosaicGA\obj\Debug\PhotoMosaicGA.Form1.resources
+C:\Users\japie\Desktop\Development\C#\PhotoMosaic\PhotoMosaicGA\PhotoMosaicGA\obj\Debug\PhotoMosaicGA.Properties.Resources.resources
+C:\Users\japie\Desktop\Development\C#\PhotoMosaic\PhotoMosaicGA\PhotoMosaicGA\obj\Debug\PhotoMosaicGA.csproj.GenerateResource.cache
+C:\Users\japie\Desktop\Development\C#\PhotoMosaic\PhotoMosaicGA\PhotoMosaicGA\obj\Debug\PhotoMosaicGA.csproj.CoreCompileInputs.cache
+C:\Users\japie\Desktop\Development\C#\PhotoMosaic\PhotoMosaicGA\PhotoMosaicGA\obj\Debug\PhotoMosaicGA.exe
+C:\Users\japie\Desktop\Development\C#\PhotoMosaic\PhotoMosaicGA\PhotoMosaicGA\obj\Debug\PhotoMosaicGA.pdb
+C:\Users\japie\Desktop\Development\C#\PhotoMosaic\PhotoMosaicGA\PhotoMosaicGA\obj\Debug\PhotoMosaicGA.GeneticAlgorithmForm.resources
+C:\Users\japie\Desktop\Development\C#\PhotoMosaic\PhotoMosaicGA\PhotoMosaicGA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\japie\Desktop\Development\C#\PhotoMosaic\PhotoMosaicGA\PhotoMosaicGA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\japie\Desktop\Development\C#\PhotoMosaic\PhotoMosaicGA\PhotoMosaicGA\obj\Debug\PhotoMosaicGA.csproj.CopyComplete
